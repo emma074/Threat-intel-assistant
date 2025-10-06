@@ -1,6 +1,0 @@
-app:
-  name: "Mariya Gracious"
-  regNo: "22BCE11427"
-  email: "graciousmariya@gmail.com"
-endpoints:
-  generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
